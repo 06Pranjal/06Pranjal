@@ -11,6 +11,8 @@
 
 - This is a classic Rock-Paper-Scissors Game [Rock-Paper-Scissors](https://06pranjal.github.io/RockPaperScissor/)
 
+- This is a Amazon Shipping Calculator [Amazon Shipping Calculator](https://06pranjal.github.io/Amazon-Shipping-Calculator/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranjal singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal singh" height="30" width="40" /></a>
